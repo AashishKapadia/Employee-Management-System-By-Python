@@ -3,10 +3,10 @@ from tkinter import messagebox, ttk
 import mysql.connector as mysql
 
 conn = mysql.connect(
-    host="localhost",
-    user="root",
-    password="",
-    database="employee_db",
+    host="sql206.infinityfree.com",
+    user="if0_41448222",
+    password="OICU60In5ldEDq",
+    database="if0_41448222_employee_db",
     port=3306
 )
 
